@@ -1,0 +1,16 @@
+Terplus is a bitmap font for programming. It's based on Terminus and Tamsyn.
+
+Terplus inherits glyph sizes from Terminus and expected to be used with Terminus as a fallback font.
+
+Size:
+ - 8x16
+
+Weigth:
+ - Medium
+ - Bold
+
+Characters:
+ - Basic Latin
+ - Cyrillic (only Russian alphabet)
+ - Private Use Area (U+E0B0)
+ - Specials (U+FFFD)
